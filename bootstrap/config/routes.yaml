@@ -1,0 +1,6 @@
+controllers:
+    resource: ../src/Controller/
+    type: attribute
+
+docs:
+    resource: "@SimpleReactWebpageBundle/Resources/config/routes.php"
